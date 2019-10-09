@@ -7,6 +7,7 @@ All PRs and issues should be directed to denoland/deno, not here.
 We are in a transitional phase now as we update various references to this
 repository. Eventually this repo will be archived.
 
+=======
 # Deno Standard Modules
 
 [![Build Status](https://dev.azure.com/denoland/deno_std/_apis/build/status/denoland.deno_std?branchName=master)](https://dev.azure.com/denoland/deno_std/_build/latest?definitionId=2?branchName=master)
