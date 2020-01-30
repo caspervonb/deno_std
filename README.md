@@ -39,7 +39,6 @@ Here are the dedicated documentations of modules:
 - [http](http/README.md)
 - [log](log/README.md)
 - [media_types](media_types/README.md)
-- [prettier](prettier/README.md)
 - [strings](strings/README.md)
 - [testing](testing/README.md)
 - [uuid](uuid/README.md)
